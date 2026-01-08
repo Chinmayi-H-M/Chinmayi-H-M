@@ -4,6 +4,7 @@ I’m a passionate **Web Developer & Designer** focused on creating beautiful, r
 I love bringing ideas to life with clean code and creative visuals.
 
 🌐 Check out my portfolio:  
+👉 https://chinmayi-h-m.github.io/chinmayi-portfolio/
 
 
 ---
