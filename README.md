@@ -19,7 +19,7 @@ I love bringing ideas to life with clean code and creative visuals.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmayi-h-m)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omnicognito)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=your-website&logoColor=white)](https://chinmayi-h-m.github.io/chinmayi-portfolio/)
 
 ---
