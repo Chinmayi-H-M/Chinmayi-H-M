@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋 I'm Chinmayi H M
+
+I’m a passionate **Web Developer & Designer** focused on creating beautiful, responsive, and user-friendly experiences on the web.  
+I love bringing ideas to life with clean code and creative visuals.
+
+🌐 Check out my portfolio:  
+👉 https://chinmayi-h-m.github.io/chinmayi-portfolio/
 
 <!--
 **Chinmayi-H-M/Chinmayi-H-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
