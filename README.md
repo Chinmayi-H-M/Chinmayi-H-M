@@ -40,6 +40,11 @@ I love bringing ideas to life with clean code and creative visuals.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayi-h-m&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayi-h-m&layout=compact&theme=tokyonight)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chinmayi-H-M&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 ---
 
 
