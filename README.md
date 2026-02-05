@@ -35,6 +35,16 @@ I love bringing ideas to life with clean code and creative visuals.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayi-h-m&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayi-h-m&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chinmayi-H-M&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 
 
