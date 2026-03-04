@@ -3,8 +3,8 @@
 I’m a passionate **Web Developer & Designer** focused on creating beautiful, responsive, and user-friendly experiences on the web.  
 I love bringing ideas to life with clean code and creative visuals.
 
-🌐 Check out my portfolio:  
-👉 https://chinmayi-h-m.github.io/chinmayi-portfolio/
+
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge)](https://chinmayi-h-m.github.io/chinmayi-portfolio/)
 
 
 ---
@@ -37,14 +37,14 @@ I love bringing ideas to life with clean code and creative visuals.
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayi-h-m&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayi-h-m&layout=compact&theme=tokyonight)
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinmayi-H-M&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayi-H-M&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chinmayi-H-M&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chinmayi-H-M&theme=tokyo-night)
 
 
 
