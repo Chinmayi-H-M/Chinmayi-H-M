@@ -11,7 +11,7 @@ I love bringing ideas to life with clean code and creative visuals.
 
 ## 🔭 About Me
 
-- 💻 I'm skilled in Front-End Development (HTML, CSS, JavaScript)
+- 💻 I'm skilled in Front-End Development (HTML, CSS, JavaScript,Reactjs)
 - 🎨 I build responsive and interactive websites
 - 🚀 I enjoy turning designs into real working sites
 - 📚 Always learning new frameworks & tools to grow
