@@ -1,4 +1,4 @@
-````md
+
 # Hi there 👋 I'm Chinmayi H M
 
 <h3 align="center">💻 Web Developer | 🎨 UI Designer | 🚀 MERN Stack Learner</h3>
@@ -32,8 +32,6 @@ I love turning ideas into real-world digital products with clean code & creative
 ---
 
 ## 🚀 Current Focus
-
-```yaml
 Learning:
   - MongoDB
   - Express.js
@@ -41,7 +39,6 @@ Learning:
   - Node.js
   - n8n Automation
   - Advanced JavaScript
-````
 
 ---
 
