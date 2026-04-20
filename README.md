@@ -1,107 +1,110 @@
 
-# Hi there 👋 I'm Chinmayi H M
+<div align="center">
 
-<h3 align="center">💻 Web Developer | 🎨 UI Designer | 🚀 MERN Stack Learner</h3>
+# 👋 Hey, I'm Chinmayi H M
 
-<p align="center">
-Passionate about building beautiful, responsive, and user-friendly web experiences.<br>
-I love turning ideas into real-world digital products with clean code & creative design.
-</p>
+### 💻 Full Stack Developer in Progress | 🎨 UI/UX Creator | 🚀 Problem Solver
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Frontend+Developer;Learning+MERN+Stack;Future+Software+Engineer" />
+
+<br>
+
 <a href="https://chinmayi-h-m.github.io/chinmayi-portfolio/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Live-blueviolet?style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/chinmayi-h-m">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
+<a href="https://github.com/Chinmayi-H-M">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## ✨ About Me
+# 🚀 About Me
 
-- 💻 Skilled in Frontend Development  
-- 🎨 Love creating modern UI/UX designs  
-- ⚡ Build responsive & interactive websites  
-- 🚀 Currently learning MERN Stack  
-- 🤖 Exploring n8n Automation  
-- 📚 Always learning new technologies  
-- 🌱 Goal: Become a Full Stack Developer  
-
----
-
-## 🚀 Current Focus
-Learning:
+Name: Chinmayi H M
+Role: Aspiring Full Stack Developer
+Focus: Web Development + UI Design
+Currently Learning:
   - MongoDB
   - Express.js
   - React.js
   - Node.js
   - n8n Automation
-  - Advanced JavaScript
+Goal: Build impactful real-world products
+
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Tech Arsenal
 
-<p align="left">
-<a href="https://www.linkedin.com/in/chinmayi-h-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.instagram.com/omnicognito"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://chinmayi-h-m.github.io/chinmayi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge"></a>
-</p>
-
----
-
-## 💻 Tech Stack
+<div align="center">
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 
 ### ⚙ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ### 🛢 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![n8n](https://img.shields.io/badge/n8n-ff6d5a?style=for-the-badge\&logo=n8n\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chinmayi-H-M&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayi-H-M&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmayi-H-M&theme=tokyo-night" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chinmayi-H-M&show_icons=true&theme=tokyonight&border_radius=15"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayi-H-M&layout=compact&theme=tokyonight&border_radius=15"/>
 
-## 🔥 Quote
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmayi-H-M&theme=tokyo-night"/>
 
-> Code. Create. Grow. Repeat.
+</div>
 
 ---
 
-## 👀 Profile Views
+# 🌐 Connect With Me
 
-![](https://komarev.com/ghpvc/?username=Chinmayi-H-M\&color=blueviolet\&style=for-the-badge)
+<div align="center">
 
-```
-```
+<a href="https://www.linkedin.com/in/chinmayi-h-m">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/omnicognito">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://chinmayi-h-m.github.io/chinmayi-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Developer Mindset
+
+> First, solve the problem. Then, write the code.
+
+<img src="https://komarev.com/ghpvc/?username=Chinmayi-H-M&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
 
