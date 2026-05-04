@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://chinmayi-h-m.github.io/chinmayi-portfolio/">
+<a href="https://chinmayi-h-m.github.io/Chinmayi-Portfolio/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Live-blueviolet?style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/chinmayi-h-m">
