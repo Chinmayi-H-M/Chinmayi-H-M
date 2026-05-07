@@ -1,3 +1,8 @@
+<div align="center">
+
+# 👋 Hey, I'm Chinmayi H M
+
+### 💻 Full Stack Developer in Progress | 🎨 UI/UX Creator | 🚀 Problem Solver
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Frontend+Developer;Learning+MERN+Stack;Future+Software+Engineer" />
