@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Hey, I'm Chinmayi H M
 
 ### 💻 Full Stack Developer in Progress | 🎨 UI/UX Creator | 🚀 Problem Solver
 
