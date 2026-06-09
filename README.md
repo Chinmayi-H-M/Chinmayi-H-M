@@ -1,5 +1,13 @@
 
+<div align="center">
 
+# Hi 👋, I'm Chinmayi H M
+
+### Aspiring Full Stack Developer | MERN Stack Learner | UI Enthusiast
+
+Passionate about building modern web applications and solving real-world problems through technology.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor;Building+Impactful+Products;Always+Learning+New+Technologies"/>
 <br>
 
 <a href="https://chinmayi-h-m.github.io/Chinmayi-Portfolio/">
