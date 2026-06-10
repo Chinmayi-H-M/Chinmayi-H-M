@@ -14,9 +14,6 @@ Passionate about building modern web applications and solving real-world problem
 <img src="https://img.shields.io/badge/🌐 Portfolio-Live-blueviolet?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/chinmayi-h-m">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
 
 <a href="https://github.com/Chinmayi-H-M">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
