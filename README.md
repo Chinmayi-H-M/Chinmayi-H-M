@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Chinmayi H M
+
 
 ### Aspiring Full Stack Developer | MERN Stack Learner | UI Enthusiast
 
