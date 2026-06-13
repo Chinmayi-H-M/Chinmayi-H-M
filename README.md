@@ -27,16 +27,6 @@ Passionate about building modern web applications and solving real-world problem
 
 ---
 
-# 🚀 Quick Highlights
-
-* 🎓 Student & Aspiring Full Stack Developer
-* 🌱 Currently learning MERN Stack & n8n Automation
-* 💻 Open Source Contributor
-* 🏆 HackerRank Python Certified
-* ✍️ Creator of OmniCognito
-* 🎯 Goal: Build impactful real-world products
-
----
 
 # 🚀 About Me
 
