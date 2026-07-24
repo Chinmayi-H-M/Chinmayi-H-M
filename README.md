@@ -26,7 +26,7 @@ Passionate about building modern web applications and solving real-world problem
 </div>
 
 ---
-# 🚀 Quick Highlights
+# Quick Highlights
 
 * 🎓 Student & Aspiring Full Stack Developer
 * 🌱 Currently learning MERN Stack & n8n Automation
