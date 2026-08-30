@@ -2,7 +2,7 @@
 
 
 # Hi 👋, I'm Chinmayi H M
-### Aspiring Full Stack Developer | MERN Stack Learner | UI Enthusiast
+### Aspiring Full Stack Developer | MERN Stack Learner 
 
 
 Passionate about building modern web applications and solving real-world problems through technology.
