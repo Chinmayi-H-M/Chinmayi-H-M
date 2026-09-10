@@ -125,7 +125,7 @@ Goal:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/omnicognito">
+<a href="https://www.instagram.com/chinmayidecodes/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
