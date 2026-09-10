@@ -129,7 +129,7 @@ Goal:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://chinmayi-h-m.github.io/Chinmayi-Portfolio/">
+<a href="https://chinmayi-portfolio-eta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
 </a>
 
